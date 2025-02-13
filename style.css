@@ -204,15 +204,13 @@ footer {
     /* 📍 Свойство для расположения ссылки горизонтально по центру */
     display: flex;
     justify-content: center;
-    align-items: center;
+    text-align: center;
 }
 
 .footer-link {
     font-weight: 400;
     font-size: 14px;
     color: #2965f1;
-    align-items: center;
-    text-decoration: none;
 }
 
 .footer-link:hover {
